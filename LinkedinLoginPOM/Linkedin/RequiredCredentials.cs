@@ -10,7 +10,7 @@ namespace LinkedinLoginPOM.Linkedin
     {
         public static String LinkedinURL = "https://www.linkedin.com/login";
         public static String Email = "nitikeshs58@gmail.com";
-        public static String Password = "niti8390";
+        public static String Password = "Enter your password here";
         public static string enterTitle = "Hello Linkedin";
         public static string Hashtags="LinkedIn";
     }
